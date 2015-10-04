@@ -19,6 +19,7 @@
 #include "defs.h"
 #include <netdb.h>
 #include <sys/msg.h>
+#include <sys/resource.h>
 #include <sys/sem.h>
 #include <sys/shm.h>
 #include <mqueue.h>
